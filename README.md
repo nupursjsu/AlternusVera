@@ -34,4 +34,25 @@ Alternus Vera Project
 - Matplotlib
 - Sklearn 
 
+### **Individual Colabs Link**
+
+[Political Affiliation](https://github.com/nupursjsu/AlternusVera/blob/master/Political_Affiliation_NupurYadav(2).ipynb)
+
+[Network Based](https://github.com/nupursjsu/AlternusVera/blob/master/Alternus_Vera_Network_Based.ipynb)
+
+[Title Vs Body](https://github.com/nupursjsu/AlternusVera/blob/master/TitleVsBody_FinalSprint3AV.ipynb)
+
+[Stance Factor](https://github.com/nupursjsu/AlternusVera/blob/master/Stance_To_Fakeness.ipynb)
+
+### **Final Combined Model**
+
+[FourReal_FinalCombinedModel](https://github.com/nupursjsu/AlternusVera/blob/master/FourReal_AlternusVera.ipynb)
+
+### **LDA and Visualizations on different datasets**
+
+[LDA colab link](https://github.com/nupursjsu/AlternusVera/blob/master/Topic_Modeling_Visualizations_for_Alternus_Vera.ipynb)
+
+### **Team Documentation (IEEE format)**
+
+[Documentation link](https://github.com/nupursjsu/AlternusVera/blob/master/Alternus%20Vera%20FourReal.docx)
 
