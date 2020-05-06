@@ -1,20 +1,37 @@
 # AlternusVera
 Alternus Vera Project
 
-Given a text corpus Dataset, compute the probabilities, as a tensor, that the content was deliberately manufactured for misinformation.
+### **Team Contributions:**
 
-Datasets:
+|Features  |  Member |
+|-----|-----|
+| Political Affiliation                         |  Nupur Yadav |  
+| Title Vs Body                   |  Lokesh Vadlamudi  |  
+|   Network Factor                           |  Ronak Mehta 
+| Stance Model                 |  Chetan Kulkarni |  
 
-https://github.com/BuzzFeedNews/2016-10-facebookfact-check/tree/master/data 
 
-https://www.cs.ucsb.edu/william/data/liardataset.zip 
+### **Enrichment Dataset Details:**
 
-https://www.kaggle.com/mrisdal/fake-news
+- Kaggle Fakenews Dataset
+- Kaggle News Detection
+- Politifact Fake news and Real News Content
+- SemEval Dataset
 
-https://github.com/bs-detector/bs-detector 
 
-http://compsocial.github.io/CREDBANK-data/
+### **Libraries Used:**
 
-http://www.politifact.com/
+- NLTK 
+- Gensim 
+- Fastai
+- Numpy
+- Pandas
+- CSV
+- WordCloud
+- Seaborn
+- Scipy
+- Regualr Expression
+- Matplotlib
+- Sklearn 
 
 
