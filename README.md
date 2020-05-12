@@ -40,7 +40,7 @@ Alternus Vera Project
 
 [Network Based](https://github.com/nupursjsu/AlternusVera/blob/master/Alternus_Vera_Network_Based.ipynb)
 
-[Title Vs Body](https://github.com/nupursjsu/AlternusVera/blob/master/TitleVsBody_FinalSprint3AV.ipynb)
+[Title Vs Body](https://github.com/nupursjsu/AlternusVera/blob/master/LokiFinalSprint4AV.ipynb)
 
 [Stance Factor](https://github.com/nupursjsu/AlternusVera/blob/master/Stance_To_Fakeness.ipynb)
 
