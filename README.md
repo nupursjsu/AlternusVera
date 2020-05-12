@@ -55,6 +55,6 @@ Alternus Vera Project
 
 ### **Team Documentation (IEEE format)**
 
-[Documentation link](https://github.com/nupursjsu/AlternusVera/blob/master/Alternus%20Vera%20FourReal.docx)
+[Documentation link](https://github.com/nupursjsu/AlternusVera/blob/master/AlternusVera_FourReal.docx)
 
 
