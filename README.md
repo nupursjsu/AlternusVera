@@ -47,7 +47,7 @@ Alternus Vera Project
 
 ### **Final Combined Model**
 
-[FourReal_FinalCombinedModel](https://github.com/nupursjsu/AlternusVera/blob/master/FourReal_AlternusVera.ipynb)
+[FourReal_FinalCombinedModel](https://github.com/nupursjsu/AlternusVera/blob/master/FourReal_AV_FinalCombinedModel.ipynb)
 
 ### **LDA and Visualizations on different datasets**
 
