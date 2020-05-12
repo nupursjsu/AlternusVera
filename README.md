@@ -17,6 +17,7 @@ Alternus Vera Project
 - Kaggle News Detection
 - Politifact Fake news and Real News Content
 - SemEval Dataset
+- Fake News Challenge
 
 
 ### **Libraries Used:**
